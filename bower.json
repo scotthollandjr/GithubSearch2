@@ -1,0 +1,22 @@
+{
+  "name": "GithubSearch",
+  "description": "ERROR: No README data found!",
+  "main": "index.js",
+  "authors": [
+    "Scott Holland <scotthollandjr@gmail.com>"
+  ],
+  "license": "BSD-2-Clause",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "bootstrap": "^3.3.6",
+    "moment": "^2.13.0"
+  }
+}
